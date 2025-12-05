@@ -2,7 +2,7 @@
   <img src="https://iili.io/fzGmfBS.png" alt="Emily Keren">
 </p>
 
-## 🚀 PROJETO PESSOAL - Coleção de Fundamentos em Python (PEP 8 Ready 🐍)
+## 🚀 PROJETO PESSOAL - Coleção de Fundamentos em Python 🐍
 
 #### 📖 Descrição:
 Este repositório é uma **coleção de exercícios e scripts** focados na consolidação dos **fundamentos da linguagem Python**, seguindo rigorosamente as diretrizes da **PEP 8** para boas práticas de código.
