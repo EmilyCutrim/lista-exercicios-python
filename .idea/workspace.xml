@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db5339db-5821-48c5-be35-f0dd07536def" name="Changes" comment="fix(package e class): mudança no nome de classe para padrão snake_case" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EmilyCutrim"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EmilyCutrim/lista-exercicios-python.git",
+    "accountId": "44d4c391-3c7a-4249-a722-f36dd56282ae"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="36P9OcoVoP2DgJa9j3ZmUY77IdP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "S:/EMILY/projetos/lista-exercicios-python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5339db-5821-48c5-be35-f0dd07536def" name="Changes" comment="" />
+      <created>1764897311000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764897311000</updated>
+      <workItem from="1764897315358" duration="1571000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat(codigo): Adiciona condicional de status baseado na média">
+      <option name="closed" value="true" />
+      <created>1764897488786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897488786</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(logica): Adiciona condicional de status baseado na média">
+      <option name="closed" value="true" />
+      <created>1764897551579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897551579</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(logica): Adiciona substituição de caracteres na frase">
+      <option name="closed" value="true" />
+      <created>1764897578813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897578813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(condicional): Adiciona lógica de classificação Vogal/Consoante">
+      <option name="closed" value="true" />
+      <created>1764897622782</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897622782</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(code): Adiciona conversão de texto para maiúsculas">
+      <option name="closed" value="true" />
+      <created>1764897857903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897857903</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(code): Adiciona conversão de texto para minúsculas">
+      <option name="closed" value="true" />
+      <created>1764897890760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897890760</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat(code): Adiciona remoção de espaços em branco com strip()">
+      <option name="closed" value="true" />
+      <created>1764897914545</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897914545</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat(code): Adiciona comparação para maior e menor preço entre anos">
+      <option name="closed" value="true" />
+      <created>1764897938916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897938916</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat(code): Adiciona script para entrada e saída de dado simples">
+      <option name="closed" value="true" />
+      <created>1764897962894</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897962894</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat(code): Adiciona script para cálculo de média aritmética">
+      <option name="closed" value="true" />
+      <created>1764897984781</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764897984781</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat(code): Adiciona lógica para identificar o maior entre dois números">
+      <option name="closed" value="true" />
+      <created>1764898008767</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898008767</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat(code): Adiciona validação condicional para percentual de crescimento">
+      <option name="closed" value="true" />
+      <created>1764898028866</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898028866</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat(code): Adiciona lógica binária de aprovação/reprovação">
+      <option name="closed" value="true" />
+      <created>1764898047955</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898047955</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat(code): Adiciona demonstração de saída de string predefinida">
+      <option name="closed" value="true" />
+      <created>1764898069132</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898069132</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat(code): Adiciona limpeza e conversão de frase para minúsculas">
+      <option name="closed" value="true" />
+      <created>1764898089456</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898089456</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat(code): Adiciona script para cálculo da soma de três valores">
+      <option name="closed" value="true" />
+      <created>1764898108208</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898108208</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat(code): Adiciona script para cálculo de subtração simples">
+      <option name="closed" value="true" />
+      <created>1764898123260</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898123260</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix(package e class): mudança no nome de classe para padrão snake_case">
+      <option name="closed" value="true" />
+      <created>1764898220607</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1764898220607</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(codigo): Adiciona condicional de status baseado na média" />
+    <MESSAGE value="feat(logica): Adiciona condicional de status baseado na média" />
+    <MESSAGE value="feat(logica): Adiciona substituição de caracteres na frase" />
+    <MESSAGE value="feat(condicional): Adiciona lógica de classificação Vogal/Consoante" />
+    <MESSAGE value="feat(code): Adiciona conversão de texto para maiúsculas" />
+    <MESSAGE value="feat(code): Adiciona conversão de texto para minúsculas" />
+    <MESSAGE value="feat(code): Adiciona remoção de espaços em branco com strip()" />
+    <MESSAGE value="feat(code): Adiciona comparação para maior e menor preço entre anos" />
+    <MESSAGE value="feat(code): Adiciona script para entrada e saída de dado simples" />
+    <MESSAGE value="feat(code): Adiciona script para cálculo de média aritmética" />
+    <MESSAGE value="feat(code): Adiciona lógica para identificar o maior entre dois números" />
+    <MESSAGE value="feat(code): Adiciona validação condicional para percentual de crescimento" />
+    <MESSAGE value="feat(code): Adiciona lógica binária de aprovação/reprovação" />
+    <MESSAGE value="feat(code): Adiciona demonstração de saída de string predefinida" />
+    <MESSAGE value="feat(code): Adiciona limpeza e conversão de frase para minúsculas" />
+    <MESSAGE value="feat(code): Adiciona script para cálculo da soma de três valores" />
+    <MESSAGE value="feat(code): Adiciona script para cálculo de subtração simples" />
+    <MESSAGE value="fix(package e class): mudança no nome de classe para padrão snake_case" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(package e class): mudança no nome de classe para padrão snake_case" />
+  </component>
+</project>
